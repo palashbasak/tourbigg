@@ -1,0 +1,37 @@
+.section1,
+.section2,
+.section3,
+.section4,
+.section5,
+.section6,
+.section7,
+.section8,
+.footer,
+.preloader,
+#footer,
+#footer div,
+#footer img,
+footer,
+header,
+nav {
+	display: none;	
+}
+
+.browsehappy {
+	width: 80%;
+	margin: 45px auto;
+	text-align: center;
+	paddin: 15px;
+	background-color: #eeeeee;
+}
+
+.browsehappy h2 {
+	color: red;
+}
+
+.browsehappy a {
+	font-size: 18px;
+	text-decoration: underline;
+	color: #03F;
+	margin-bottom: 15px;
+}
